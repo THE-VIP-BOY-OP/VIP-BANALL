@@ -41,8 +41,8 @@
 <p>
 <details>
 <summary><h3><strong>Credits💕</strong></h3></summary>
-<strong>All credit Goes To</strong>&nbsp;<code>𝐕𝐈𝐏 𝐁𝐎𝐘 𓆩💗𓆪</code><br>
-<code>Telegram:- <a href="https://t.me/THE_VIP_BOY">ＹＯUＲ ＣＲUＳＨ،"(💛</a></code><br>
+<strong>All credit Goes To</strong>&nbsp;<code> 𓆩𝐕𝐈𝐏 💗 𝐁𝐎𝐘𓆪</code><br>
+<code>Telegram:- <a href="https://t.me/THE_VIP_BOY">𝐕𝐈𝐏 𝐁𝐎𝐘</a></code><br>
 <code>Github:- <a href="https://github.com/THE-VIP-BOY-OP">THE-VIP-BOY-OP</a></code><br>
 </details>
 </p>
@@ -51,3 +51,5 @@
 <a href="https://t.me/tg_friendss"><img src="https://img.shields.io/badge/Support%20%20Group-black?style=for-the-badge&logo=telegram"></a>
 </p>
 
+<a href="https://t.me/vip_creators"><img src="https://img.shields.io/badge/Support%20%20Channel-black?style=for-the-badge&logo=telegram"></a>
+</p>
